@@ -86,17 +86,17 @@ Note:
 I think this diagram is missing some things, and operationalizes others to the detriment of defining a clear purpose, so I extended some parts and condenced other parts that share a common purpose to create this next one. 
 
 A pipeline for your data analysis includes the following, very broadly defined stages:
-<<<<<<< HEAD
+
 In the design phase, you sharpen the question, make sure you have what you need to answer it
 In the phase that I'm calling getting to know and trust your data, you carry out a number of exploratory analyses. You may also need to come up with or at least apply a series of quality control features, Quality control involves a number of decisions which can alter the basis of your analysis, if you decide one way vs another. In many fields there are typical quality control measures that you are expected to apply if you want to communicate your results to other people credibly. The purpose here is to gain confidence that the measurements are where you'd expect them to be based on your literature review, a deep understanding of the data collection process, whether through an machine that makes measurements or through survey instruments. This is where you calibrate your intuition and where the context of your analysis really begins to become clear. It's a really important stage. 
 In the implementation phase, you build models, evaluate them, create visualizations and communicate the insights.
 And finally in the inference phase, you interpret your results in the context of both the work that others have done before you towards answering the same or similar questions, and in the context of your biases, assumptions and other decisions you made in the previous stages. 
-=======
+
 In the design phase, you sharpen the question, make sure you have what you need to answer it.
 In the implementation phase, you dive in deep with the data, explore it, clean it, play with it and develop your intuition about it.
 In the inference stage, you build models, evaluate them, create visualizations and communicate the insights.
 These are iterative and connect to each other in ways that this diagram ignores. 
->>>>>>> 923c907ac20734674739255f8b30aeb79e812521
+
 
 Two people can start at exactly the same place in terms of what data and methods are available to them and ask very similar questions, but the sight differences in their objectives will translate to different actions being appropriate at each stage. 
 
